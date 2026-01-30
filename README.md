@@ -13,3 +13,9 @@ to manage academic papers and related notes.
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL
+- 
+## API Endpoints
+- POST /papers
+- GET /papers
+- GET /papers/{id}
+- DELETE /papers/{id}
