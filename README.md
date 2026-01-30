@@ -1,10 +1,15 @@
 # Academic Paper Manager
 
-A backend-oriented project designed to structure academic papers and notes 
-to support efficient literature review processes.
+A simple backend application developed with Spring Boot 
+to manage academic papers and related notes.
+
+## Features
+- Create and list academic papers
+- Store basic metadata (title, authors, year, field)
+- RESTful API design
 
 ## Tech Stack
 - Java
 - Spring Boot
-- REST API
+- Spring Data JPA
 - PostgreSQL
